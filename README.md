@@ -15,7 +15,7 @@
 * Using of docker-compose & volumes ❌
 * Using of ENV and secrets ❌
 
-###### You can see it in the <a href="https://hub.docker.com/repository/docker/orleans007/express-docker-app">Docker Hub</a>
+###### You can see it in the <a href="https://hub.docker.com/r/orleans007/express-docker-app">Docker Hub</a>
 
 <hr>
 
