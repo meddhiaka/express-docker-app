@@ -3,10 +3,10 @@
 ## I followed my personal branching way
 
 - `web-app` branch contains the source code of the app
-- `Dockerization` branch contains the Dockerfile, .Dockerigore & VSCode configurations file
+- `Dockerization` branch contains the Dockerfile, .Dockerigore & VSCode configuration files
 - Merged the `Dockerization` branch into `web-app` branch, then final step merged `web-app` branch into `main/master` branch
 
-### These are tasks of the repository
+### Tasks of the repository
 
 * Creation of express app on host (require syntax) ✅
 * Dockerization of express (Creating the image) `Dockerfile & .vscode config` ✅
